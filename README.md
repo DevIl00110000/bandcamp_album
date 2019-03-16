@@ -79,6 +79,12 @@ string 'Here goes the first song out of &#39;Dead Calm&#39;, the debut LP of The
 ``` php
 $album->get_player();
 ```
+Return (with var_dump)
+``` php
+array (size=2)
+  0 => string '<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2885614535/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless></iframe>' (length=142)
+  1 => string '<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2885614535/size=large/bgcol=333333/linkcol=0f91ff/minimal=true/transparent=true/" seamless></iframe>' (length=155)
+```
 This function return an array with two different player.
 
 ### end()
