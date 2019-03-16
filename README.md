@@ -1,7 +1,7 @@
 # bandcamp_album
 A php class for get some informations about a bandcamp album from an url.
 
-For performances, this class use another class for the cache :
+For performances, this class use another class, a cache system :
 https://github.com/DevIl00110000/cache_system
 
 If you have a question or just want talk with me, you can come on [my Twitter](https://twitter.com/DevIl00110000).
