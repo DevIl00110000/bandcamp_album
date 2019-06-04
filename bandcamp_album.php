@@ -45,8 +45,8 @@ class bandcamp_album {
 	/**
 	 * $name_file_content_album_page contient le nom du fichier de cache
 	 * @var string
-	 *
-	private $name_file_content_album_page;*/
+	 */
+	private $name_file_content_album_page;
 
 	/**
 	 * $content_album_page contient le chemin du fichier de cache
