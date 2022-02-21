@@ -4,7 +4,7 @@ A php class for get some informations about a bandcamp album from an url.
 For performances, this class use another class, a cache system :
 https://github.com/DevIl00110000/cache_system
 
-If you have a question or just want talk with me, you can come on [my Twitter](https://twitter.com/DevIl00110000).
+If you have a question or just want talk with me, you can come on [my Twitter](https://twitter.com/YR72dpi).
 
 ## How to start ?
 You need a ssl certificate with an extension  ".cer" on Base 64.
